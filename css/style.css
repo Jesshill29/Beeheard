@@ -1,0 +1,100 @@
+/*css file */
+.mainWrapper{
+	min-height: 800px;
+	/*background-color: red;*/
+}
+.mylinks{
+	border:1px solid black;
+	text-align: center;
+	height: 150px;
+	padding-top:45px; ;
+}
+.mainBody{
+	position: relative;
+	background-image: url("../img/backgroundimage.jpg");
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: 100%; 
+}
+
+.header a{
+	font-size: 50px;
+	font-family:'Rokkitt',serif;
+	color:#E82C0C;
+
+}
+
+.Text {
+	text-align: center;
+	
+	margin: 200px;
+	position: absolute;
+	bottom: 90px;
+	left: 9%; 
+	width: 800px;
+}
+
+.Text h1 {
+
+font-size:130px;
+font-family: 'PT Serif Caption', serif;
+color:#E82C0C;
+position: center;
+
+}
+
+.Text h2 {
+
+font-size:30px;
+font-family:'Rokkitt',serif;
+color:#FFFFFF;
+position: center;
+}
+
+.footer a{
+    font-size: 30px;
+	font-family:'Rokkitt',serif;
+	color:#E82C0C;
+}
+
+.text {    
+margin: 200px;
+	position: center;
+	bottom: 90px;
+	left: 9%; 
+	width: 800px;
+}
+    
+
+.text h2{
+    font-size:30px;
+    color:#E82C0C;
+    font-family:'Rokkitt',serif;
+    position:center;
+    padding-bottom:20px
+}
+
+.text h1{
+    font-size: 90px;
+    color: #000000;
+    font-family:'Rokkitt',serif;
+    position:center
+    
+}
+
+.text p{
+   font-size: 8opx;
+    color: #000000;
+    font-family:'Rokkitt',serif;
+    position:center;
+    padding-bottom:30px
+    
+}
+    
+    .footer1 a{
+    font-size: 30px;
+	font-family:'Rokkitt',serif;
+	color:#E82C0C;
+    
+}
+        
